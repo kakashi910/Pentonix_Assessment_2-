@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="70" viewBox="0 0 60 70">
+  <g id="Group_4813" data-name="Group 4813" transform="translate(-43 -323)">
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="60" height="70" transform="translate(43 323)" fill="#fff"/>
+    <g id="Group_4745" data-name="Group 4745" transform="translate(60.256 342.19)">
+      <line id="Line_1" data-name="Line 1" x2="24.484" fill="none" stroke="#05222e" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_2" data-name="Line 2" x2="24.484" transform="translate(0 6.327)" fill="none" stroke="#05222e" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_3" data-name="Line 3" x2="24.484" transform="translate(0 12.655)" fill="none" stroke="#05222e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <text id="Menu" transform="translate(73 379)" fill="#05222e" font-size="14" font-family="GreycliffCF-DemiBold, Greycliff CF" font-weight="300"><tspan x="-18" y="0">Menu</tspan></text>
+  </g>
+</svg>
